@@ -27,7 +27,7 @@ Grupo de número <b>3</b> formado pelos integrantes mencionados abaixo.
 
 ## 📜 Descrição
 
-<b>Referência</b>: URL_PENDENTE
+<b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=538349&c=14504
 
 [...]
 
